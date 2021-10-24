@@ -19,8 +19,7 @@ list and invert it in order to make all of the links point in the opposite direc
 inversion within the provided ```LinkedList``` files. Your implementation must be in O(n) time using O(1) extra space. This can be acheived by splitting your 
 list into two parts, the first and the rest. Here is an example:
 
-
-
+![singly_inversion](https://user-images.githubusercontent.com/56777076/138614737-cc9e43ce-6af7-4303-98b0-06ee6bb285c3.png)
 
 
 
